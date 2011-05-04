@@ -1,0 +1,11 @@
+Tweethisometer v0.1
+-------------------
+
+A simple script that counts the number of words in a LaTeX document
+called "thesis.tex" in the current directory, and posts to Twitter
+every 100 words (or so). You will need to install the command-line
+Twitter tools from here:
+
+http://mike.verdone.ca/twitter/
+
+Comments welcome!
